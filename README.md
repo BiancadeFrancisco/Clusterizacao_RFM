@@ -1,6 +1,6 @@
-## Clusterizacao_RFM
+# Clusterizacao_RFM
 
-# Descrição Projeto
+## Descrição Projeto
 
 Dataset: Descrição de vendas.
 
@@ -15,7 +15,7 @@ Modelos testados:
 - HIERARCHICAL CLUSTERING;
 - GAUSSIAN MIXTURE.
 
-oBS: Os dados foram testados com os 3 modelos, e o modelo que apresentou melhores métricas foi o K-MEANS, com 4 clusters.
+Obs: Os dados foram testados com os 3 modelos, e o modelo que apresentou melhores métricas foi o K-MEANS, com 4 clusters.
 
 IDE: Colab
 
