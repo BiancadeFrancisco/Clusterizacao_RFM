@@ -11,7 +11,7 @@ Objetivo: Agrupar clientes conforme seus comportamentos de vendas, levando em co
 Método: Clusterização - Modelos Não Supervisionados. 
 
 Modelos testados: 
-- k-means;
+- K-MEANS;
 - HIERARCHICAL CLUSTERING;
 - GAUSSIAN MIXTURE.
 
@@ -25,5 +25,5 @@ Principais bibliotecas utilizadas:
 - Pandas, para manipulação e tratamento dos dados;
 - Numpy, para realizar cálculos numéricos;
 - Matplotlib, visualização gráfica dos dados;
-- Seabor, visualização gráfica dos dados;
+- Seaborn, visualização gráfica dos dados;
 - Datetime, para realizar o calculo de datas dentro dataset. 
