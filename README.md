@@ -11,7 +11,7 @@ Objetivo: Agrupar clientes conforme seus comportamentos de vendas, levando em co
 Método: Clusterização - Modelos Não Supervisionados. 
 
 Modelos testados: 
-- K-MEANS;
+- k-means;
 - HIERARCHICAL CLUSTERING;
 - GAUSSIAN MIXTURE.
 
